@@ -1,3 +1,6 @@
+Video explanation
+https://drive.google.com/drive/folders/19bbgc0xm8bi9cEOV3L9q1pf2dNBuogCU
+
 High-LOGO Compiler
 This project implements a compiler for High-LOGO, a high-level programming language inspired by Logo. The compiler translates High-LOGO code into Python, enabling the use of the Turtle module to visualize graphical instructions.
 
